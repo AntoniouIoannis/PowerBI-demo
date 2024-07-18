@@ -1,2 +1,2 @@
 # PowerBI-demo
-my fisrt demostrate to craet real awesome Bussiness Intelligence stuff
+my fisrt demostrate to create real awesome Bussiness Intelligence stuff

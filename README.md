@@ -1,2 +1,3 @@
 # PowerBI-demo
-my fisrt demostrate to create real awesome Bussiness Intelligence stuff
+... purpose of training and experience of program development!
+my first demostrate to create real awesome Bussiness Intelligence stuff
